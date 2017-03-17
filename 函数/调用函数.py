@@ -5,6 +5,7 @@ n2 = 1000
 
 h1 = hex(n1)
 h2 = hex(n2)
+print (h1)
 
 print (type(h1))
 print (type(h2))
